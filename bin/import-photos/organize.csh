@@ -2,8 +2,10 @@
 #
 # for iphone:
 #  - first attach/sync phone
-#  - open preview.app, import from phone, select all, import to ~/Desktop/photos-import-staged
-#  - delete all photos through preview.app
+#  - open Preview.app, menu to 'File', 'Import from iPhone', select
+#      all, import to ~/Desktop/photos-import-staged
+#  - close window with newly imported photos, and delete all photos
+#      from iPhone through Preview.app
 #
 # for sd card from slr:
 #  - attach through usb
