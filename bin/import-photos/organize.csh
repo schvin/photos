@@ -9,6 +9,6 @@
 #
 # for sd card from slr:
 #  - attach through usb
-#  - mv /Volumes/NONAME/DCIM/1* ~/Desktop/photos-import-staged
+#  - mv /Volumes/NO\ NAME/DCIM/1* ~/Desktop/photos-import-staged
 #
 ###
