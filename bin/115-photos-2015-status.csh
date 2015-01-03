@@ -1,19 +1,19 @@
 #!/bin/csh
 #
-# gives brief status of status in 113 photos of 2013. recomend
+# gives brief status of status in 115 photos of 2015. recomend
 # calling from cron periodically, for example:
 #
-#   ~/projects/photos/bin/113-photos-2013-status.csh | mailx -s '113 photos in 2013 - status' schvin@schvin.net
+#   ~/projects/photos/bin/115-photos-2015-status.csh | mailx -s '115 photos in 2015 - status' schvin@schvin.net
 #
-# for more info on the 113 photos in 2013 project, check out these
+# for more info on the 115 photos in 2015 project, check out these
 # urls:
 #
-#   http://www.flickr.com/groups/2107611@N24/
-#   http://www.flickr.com/photos/schvin/sets/72157632620200167/
+#   https://www.flickr.com/groups/2636120@N24/
+#   https://www.flickr.com/photos/schvin/sets/72157649667421559
 #
 ###
 
-set DATA=~/projects/scallop/art/113.md
+set DATA=~/projects/photos/projects/115.md
 set TODODATA=$TMPDIR/$$-list
 set IDEA=$TMPDIR/$$-idea
 
